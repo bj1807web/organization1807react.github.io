@@ -3,7 +3,7 @@ import './index.scss'
 export default class Fabu extends Component {
     render() {
         return (
-            <div className='fb-box'>
+            <div className='fb-p-box'>
                 <div style={{ padding: "30px 20px" }}>
                     <div className='fb-g-hd flex flex-bw'>
                         <div className='sel sela'>
@@ -46,7 +46,7 @@ export default class Fabu extends Component {
                     <div className='fb-content-box'>
                         <div className='fb-m-edit'>
                             <div className='main-head'>
-                                <input maxLength="50" type="text" placeholder="文章标题" ></input>
+                                添加图片
                             </div>
                         </div>
                         <div className='editor'>

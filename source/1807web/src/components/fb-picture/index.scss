@@ -1,4 +1,4 @@
-.fb-box{
+.fb-p-box{
    height: 100vh;
     background: #383e42;
     // padding: 30px 20px;
@@ -45,6 +45,8 @@
                 border: 1px solid #969696;
                 font-size: 32px;
                 background: #fff;
+                text-align: center;
+                color: #666;
                 input{
                     display: block;
                     width: 100%;
@@ -95,9 +97,9 @@
             left: 0;
             width: 0px;
             height: 0px;
-            border-left: 7px solid #666;
-            border-top: 7px solid transparent;
-            border-bottom: 7px solid transparent;   
+            border-left: 10px solid #666;
+            border-top: 10px solid transparent;
+            border-bottom: 10px solid transparent;   
             margin: 200px auto;  
             }
         }
